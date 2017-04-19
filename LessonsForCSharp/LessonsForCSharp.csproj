@@ -48,6 +48,8 @@
     <Compile Include="Lesson5.cs" />
     <Compile Include="Lesson6.cs" />
     <Compile Include="Logger.cs" />
+    <Compile Include="Outputter.cs" />
+    <Compile Include="Outputter1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

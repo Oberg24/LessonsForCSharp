@@ -12,9 +12,15 @@ namespace LessonsForCSharp {
 			//Lesson2.RunAfterCodeReview();
 
 			//Lesson3.RunBeforeCodereview();
-			Lesson3.RunAfterCodereview();
+			//Lesson3.RunAfterCodereview();
 
-			Lesson6.Run();
+			//Lesson6.Run();
+
+			//Outputter.Instance.Output("Foo bar");
+
+			Outputter1.Output("Foo bar");
+
+			Console.ReadKey();
 
 		}
 	}
